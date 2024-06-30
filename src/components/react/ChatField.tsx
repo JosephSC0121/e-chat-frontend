@@ -4,6 +4,8 @@ export default function ChatBot() {
     const [messages, setMessages] = useState<{ content: string, isUser: boolean }[]>([]);
     const [input, setInput] = useState<string>("");
 
+//TODO: Isolate fetch data
+    
     const handleSendMessage = async () => {
         if (input.trim()) {
             const newMessage = { content: input.trim(), isUser: true };
