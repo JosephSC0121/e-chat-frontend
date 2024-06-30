@@ -44,7 +44,8 @@ All commands are run from the root of the project, from a terminal:
 ![image](https://github.com/JosephSC0121/e-chat-frontend/assets/119358195/029af41a-15c4-4f1d-85bb-ae21cd032ac7)
 
 ## Chatbot
-![image](https://github.com/JosephSC0121/e-chat-frontend/assets/119358195/0ba6c7bb-c8f3-4472-9126-58c8628824b9)
+![image](https://github.com/JosephSC0121/e-chat-frontend/assets/119358195/49fe1ba0-e218-477f-b7d6-7fba4b1ac4c8)
+
 
 ## Database image
 ![image](https://github.com/JosephSC0121/e-chat-frontend/assets/119358195/208449f8-2640-425d-80e0-c8cc3e59ed87)
